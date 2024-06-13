@@ -1,7 +1,6 @@
 # setorian-cityrp
 
-I will be leaving to the military so I won't be able to help with any problems also I'm not a developer so don't send me error messages especting me to fix it. You are free to do as you please with the code provided all I ask is that you leave the credited names and do not resell any of this code to some that would be real sucmmy of you! 
-
+I will be leaving for the military, so I won't be able to help with any problems. Also, I'm not a developer, so don't send me error messages expecting me to fix them. You are free to do as you please with the code provided. All I ask is that you leave the credited names and do not resell any of this code, as that would be really scummy of you!
 
 
 
