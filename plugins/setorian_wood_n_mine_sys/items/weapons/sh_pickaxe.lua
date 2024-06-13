@@ -1,0 +1,10 @@
+ITEM.name = "Pickaxe"
+ITEM.description = "Use it to extract minerals."
+ITEM.model = "models/weapons/yurie_rustalpha/wm-pickaxe.mdl"
+ITEM.class = "arccw_melee_rust_pickaxe"
+ITEM.weaponCategory = "tools"
+ITEM.category = "Tools"
+ITEM.flag = "v"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.maxDurability = 100

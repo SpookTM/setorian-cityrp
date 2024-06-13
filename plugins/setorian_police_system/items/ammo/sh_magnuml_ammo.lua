@@ -1,0 +1,6 @@
+ITEM.name = "Magnum Ammunition"
+ITEM.uniqueID = "MagA"
+ITEM.description = "Ammunition for revolvers."
+ITEM.model = "models/items/arccw/magnum_ammo.mdl"
+ITEM.class = "arccw_ammo_357"
+ITEM.category = "Ammunition"

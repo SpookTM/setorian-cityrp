@@ -1,0 +1,18 @@
+LANGUAGE = {
+    blinding = "Blinding...",
+    unblinding = "Unblinding...",
+    isTied = "Blind",
+    fblindfoldedUp = "You have been blinded.",
+    fBeingBlind = "You are being blinded.",
+    blind = "They have been blinded.",
+    beingBlind = "They are being blinded.",
+    beingUnBlind = "They are being unblinded.",
+    tying = "Tying...",
+    unTying = "Untying...",
+    isTied = "Tied",
+    fTiedUp = "You have been tied up.",
+    fBeingTied = "You are being tied up.",
+    tiedUp = "They have been tied up.",
+    beingTied = "They are being tied up.",
+    beingUntied = "They are being untied.",
+}

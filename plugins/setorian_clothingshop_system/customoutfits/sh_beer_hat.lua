@@ -1,0 +1,66 @@
+local PLUGIN = PLUGIN
+local pacdata = {	
+	[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["UniqueID"] = "asdfsaffahh4g8g05a1f1fa0fd88jah0sa0g068fd04d60sjd68h4g8fffgfd",
+				["NoLighting"] = false,
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Materials"] = "",
+				["Name"] = "",
+				["LevelOfDetail"] = 0,
+				["NoTextureFiltering"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["IsDisturbing"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TargetEntityUID"] = "",
+				["Alpha"] = 1,
+				["Material"] = "",
+				["Invert"] = false,
+				["ForceObjUrl"] = false,
+				["Bone"] = "head",
+				["Angles"] = Angle(0, -90, -90),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["BoneMerge"] = false,
+				["Color"] = Vector(1, 1, 1),
+				["Position"] = Vector(4.3063507080078, 0.00011444091796875, 6.103515625e-05),
+				["ClassName"] = "model2",
+				["Brightness"] = 1,
+				["Hide"] = false,
+				["NoCulling"] = false,
+				["Scale"] = Vector(1, 1, 1),
+				["LegacyTransform"] = false,
+				["EditorExpand"] = true,
+				["Size"] = 1,
+				["ModelModifiers"] = "",
+				["Translucent"] = false,
+				["BlendMode"] = "",
+				["EyeTargetUID"] = "",
+				["Model"] = "models/sal/acc/fix/beerhat.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "asaahpuigkhqawebaccx4dfjjydndffdadfadgagsf848713",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
+
+}
+
+PLUGIN:AddClothingPac("beer_hat", pacdata)

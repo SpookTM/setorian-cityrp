@@ -1,0 +1,10 @@
+ITEM.name = "Hatchet"
+ITEM.description = "Use it to extract wood."
+ITEM.model = "models/weapons/yurie_rustalpha/wm-hatchet.mdl"
+ITEM.class = "arccw_melee_rust_hatchet"
+ITEM.weaponCategory = "tools"
+ITEM.category = "Tools"
+ITEM.flag = "v"
+ITEM.width = 3
+ITEM.height = 1
+ITEM.maxDurability = 100

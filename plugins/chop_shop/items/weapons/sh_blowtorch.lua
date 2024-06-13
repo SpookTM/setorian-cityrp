@@ -1,0 +1,9 @@
+ITEM.name = "Blowtorch"
+ITEM.description = "A small burner having a device to intensify combustion by means of a blast of air or oxygen, usually including a fuel tank pressurized by a hand pump, and used especially in plumbing. This model is prepared to disassemble car parts"
+ITEM.model = "models/weapons/tfa_nmrih/w_tool_welder.mdl"
+ITEM.class = "arccw_blowtorch"
+ITEM.weaponCategory = "tools"
+ITEM.flag = "v"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.maxDurability = 100

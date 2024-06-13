@@ -1,0 +1,66 @@
+local PLUGIN = PLUGIN
+local pacdata = {	
+	[1] = {
+		["children"] = {
+			[1] = {
+				["children"] = {
+				},
+				["self"] = {
+					["Skin"] = 0,
+					["UniqueID"] = "dsauhfw9uh394n9f49samx0s309qa0fgv30824jh23k2d23sj3298a",
+					["NoLighting"] = false,
+					["AimPartName"] = "",
+					["IgnoreZ"] = false,
+					["AimPartUID"] = "",
+					["Materials"] = "",
+					["Name"] = "",
+					["LevelOfDetail"] = 0,
+					["NoTextureFiltering"] = false,
+					["PositionOffset"] = Vector(0, 0, 0),
+					["IsDisturbing"] = false,
+					["EyeAngles"] = false,
+					["DrawOrder"] = 0,
+					["TargetEntityUID"] = "",
+					["Alpha"] = 1,
+					["Material"] = "",
+					["Invert"] = false,
+					["ForceObjUrl"] = false,
+					["Bone"] = "head",
+					["Angles"] = Angle(-1.9054979247812e-06, -74.588844299316, -90),
+					["AngleOffset"] = Angle(0, 0, 0),
+					["BoneMerge"] = false,
+					["Color"] = Vector(1, 1, 1),
+					["Position"] = Vector(5.3305511474609, 2.3142700195313, -0.2635498046875),
+					["ClassName"] = "model2",
+					["Brightness"] = 1,
+					["Hide"] = false,
+					["NoCulling"] = false,
+					["Scale"] = Vector(1, 1, 1),
+					["LegacyTransform"] = false,
+					["EditorExpand"] = true,
+					["Size"] = 1,
+					["ModelModifiers"] = "",
+					["Translucent"] = false,
+					["BlendMode"] = "",
+					["EyeTargetUID"] = "",
+					["Model"] = "models/modified/hat04.mdl",
+				},
+			},
+		},
+		["self"] = {
+			["DrawOrder"] = 0,
+			["UniqueID"] = "4123asdasdasddsadasadsasdasd6d7512a2953e63846104f1a31ac",
+			["Hide"] = false,
+			["TargetEntityUID"] = "",
+			["EditorExpand"] = true,
+			["OwnerName"] = "self",
+			["IsDisturbing"] = false,
+			["Name"] = "my outfit",
+			["Duplicate"] = false,
+			["ClassName"] = "group",
+		},
+	},
+
+}
+
+PLUGIN:AddClothingPac("hat3", pacdata)

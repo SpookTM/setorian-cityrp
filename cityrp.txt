@@ -1,0 +1,8 @@
+"setorian"
+{
+	"base"		"helix"
+	"title"		"Setorian"
+	"author"	"spooktm"
+	"category"	"rp"
+	"menusystem" "1"
+}

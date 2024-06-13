@@ -1,0 +1,133 @@
+local PLUGIN = PLUGIN
+
+local pacdata = {
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["UniqueID"] = "4933b7a71bd8f632bc98af6e8d1faa6197a61a3811ae003515a642572fd1f772",
+				["NoLighting"] = false,
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Materials"] = "",
+				["Name"] = "",
+				["LevelOfDetail"] = 0,
+				["NoTextureFiltering"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["IsDisturbing"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TargetEntityUID"] = "",
+				["Alpha"] = 1,
+				["Material"] = "",
+				["Invert"] = false,
+				["ForceObjUrl"] = false,
+				["Bone"] = "left hand",
+				["Angles"] = Angle(89.534622192383, 0.00099858909379691, 0.00043359547271393),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["BoneMerge"] = false,
+				["Color"] = Vector(1, 1, 1),
+				["Position"] = Vector(-1.49609375, 0.1904296875, -0.12727355957031),
+				["ClassName"] = "model2",
+				["Brightness"] = 1,
+				["Hide"] = false,
+				["NoCulling"] = false,
+				["Scale"] = Vector(1, 1, 1),
+				["LegacyTransform"] = false,
+				["EditorExpand"] = true,
+				["Size"] = 0.85,
+				["ModelModifiers"] = "",
+				["Translucent"] = false,
+				["BlendMode"] = "",
+				["EyeTargetUID"] = "",
+				["Model"] = "models/dannio/fbikid/bracelet.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "0e751a205c6e3db629d7ab77ed55064fd28b9840dc2964af495274df29a6820c",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
+
+}
+
+PLUGIN:AddClothingPac("bracelet_l", pacdata)
+
+local pacdata = {
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["UniqueID"] = "4933b7a71bd8f632bc98af6e8d1faa6197a61a3811ae003515a642572fd1f772",
+				["NoLighting"] = false,
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Materials"] = "",
+				["Name"] = "",
+				["LevelOfDetail"] = 0,
+				["NoTextureFiltering"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["IsDisturbing"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TargetEntityUID"] = "",
+				["Alpha"] = 1,
+				["Material"] = "",
+				["Invert"] = false,
+				["ForceObjUrl"] = false,
+				["Bone"] = "right hand",
+				["Angles"] = Angle(89.534622192383, 0.00099858909379691, 0.00043359547271393),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["BoneMerge"] = false,
+				["Color"] = Vector(1, 1, 1),
+				["Position"] = Vector(-1.8076171875, 0.19140625, 0.14264678955078),
+				["ClassName"] = "model2",
+				["Brightness"] = 1,
+				["Hide"] = false,
+				["NoCulling"] = false,
+				["Scale"] = Vector(1, 1, 1),
+				["LegacyTransform"] = false,
+				["EditorExpand"] = true,
+				["Size"] = 0.85,
+				["ModelModifiers"] = "",
+				["Translucent"] = false,
+				["BlendMode"] = "",
+				["EyeTargetUID"] = "",
+				["Model"] = "models/dannio/fbikid/bracelet.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "0e751a205c6e3db629d7ab77ed55064fd28b9840dc2964af495274df29a6820c",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
+
+
+}
+PLUGIN:AddClothingPac("bracelet_r", pacdata)

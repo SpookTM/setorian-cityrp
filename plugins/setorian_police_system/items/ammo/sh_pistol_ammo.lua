@@ -1,0 +1,6 @@
+ITEM.name = "Pistol Ammunition"
+ITEM.uniqueID = "PistolA"
+ITEM.description = "Ammunition for handguns."
+ITEM.model = "models/items/arccw/pistol_ammo.mdl"
+ITEM.class = "arccw_ammo_pistol"
+ITEM.category = "Ammunition"

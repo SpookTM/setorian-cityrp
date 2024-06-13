@@ -1,0 +1,3 @@
+1. zrobić zeby skała sprawdzała czy jest miejsce (np jakis prop nie blokuje albo gracz) jesli nie ma miejsca to wtedy odpala sie znowu timer
+2. zwiekszyc hp skały
+3. zrobic drzewo (skopiowac z lumberjacka)

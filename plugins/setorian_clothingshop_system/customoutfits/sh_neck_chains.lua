@@ -1,0 +1,133 @@
+local PLUGIN = PLUGIN
+
+local pacdata = {
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["UniqueID"] = "546cc3373741f4f2ef7c48fe164070007734a78b05b22076311ff81ea7adb0d8",
+				["NoLighting"] = false,
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Materials"] = "",
+				["Name"] = "",
+				["LevelOfDetail"] = 0,
+				["NoTextureFiltering"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["IsDisturbing"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TargetEntityUID"] = "",
+				["Alpha"] = 1,
+				["Material"] = "",
+				["Invert"] = false,
+				["ForceObjUrl"] = false,
+				["Bone"] = "chest",
+				["Angles"] = Angle(13.312272071838, -6.2276894823299e-06, 6.2778286746834e-07),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["BoneMerge"] = false,
+				["Color"] = Vector(1, 1, 1),
+				["Position"] = Vector(-0.6566162109375, 6.103515625e-05, 1.4833984375),
+				["ClassName"] = "model2",
+				["Brightness"] = 1,
+				["Hide"] = false,
+				["NoCulling"] = false,
+				["Scale"] = Vector(1, 1, 1),
+				["LegacyTransform"] = false,
+				["EditorExpand"] = false,
+				["Size"] = 1,
+				["ModelModifiers"] = "",
+				["Translucent"] = false,
+				["BlendMode"] = "",
+				["EyeTargetUID"] = "",
+				["Model"] = "models/dannio/fbikid/chain.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "d7428654393e8e2e8fe736a838ddeb1f8aeec44ceda012941278102f79b8940f",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
+
+}
+
+PLUGIN:AddClothingPac("neck_chain", pacdata)
+
+local pacdata = {
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["UniqueID"] = "546cc3373741f4f2ef7c48fe164070007734a78b05b22076311ff81ea7adb0d8",
+				["NoLighting"] = false,
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Materials"] = "",
+				["Name"] = "",
+				["LevelOfDetail"] = 0,
+				["NoTextureFiltering"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["IsDisturbing"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TargetEntityUID"] = "",
+				["Alpha"] = 1,
+				["Material"] = "",
+				["Invert"] = false,
+				["ForceObjUrl"] = false,
+				["Bone"] = "chest",
+				["Angles"] = Angle(13.312272071838, -6.2276894823299e-06, 6.2778286746834e-07),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["BoneMerge"] = false,
+				["Color"] = Vector(1, 1, 1),
+				["Position"] = Vector(-0.79054260253906, 0.22344970703125, 1.794921875),
+				["ClassName"] = "model2",
+				["Brightness"] = 1,
+				["Hide"] = false,
+				["NoCulling"] = false,
+				["Scale"] = Vector(1, 1, 1),
+				["LegacyTransform"] = false,
+				["EditorExpand"] = true,
+				["Size"] = 1,
+				["ModelModifiers"] = "",
+				["Translucent"] = false,
+				["BlendMode"] = "",
+				["EyeTargetUID"] = "",
+				["Model"] = "models/dannio/fbikid/doublechain.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "d7428654393e8e2e8fe736a838ddeb1f8aeec44ceda012941278102f79b8940f",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
+
+}
+
+PLUGIN:AddClothingPac("neck_chain_double", pacdata)

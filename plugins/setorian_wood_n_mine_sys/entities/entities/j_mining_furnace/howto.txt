@@ -1,0 +1,6 @@
+- rozpalenie piecyka zużywa jedna jednostke paliwa i dodaje czas palenia sie
+- jak worktime dojdzie do zera to wtedy pobiera nastepna jednostke paliwa
+- zrobic FurnaceData który bedzie zawierał informacje takie jak włozone aktualnie paliwo i jego ilosc,
+cos co zostało włozone czyli input
+- Zrobic "receptury" do piecyka czyli co mozna przepalic, w jakies ilosci i jaki daje efekt.
+Skrypt sam powinien dopasować recepture na podstawie inputu w piecyku

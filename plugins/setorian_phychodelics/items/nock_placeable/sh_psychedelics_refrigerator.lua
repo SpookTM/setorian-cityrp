@@ -1,0 +1,10 @@
+ITEM.name = "Refrigerator"
+ITEM.description = "Use this to freeze flask"
+ITEM.model = Model("models/props_c17/FurnitureFridge001a.mdl")
+ITEM.category = "Psychedelics"
+ITEM.price = 0
+ITEM.entityclass = "psychedelics_refrigerator"
+ITEM.place_limit = 1
+ITEM.width = 2
+ITEM.height = 2
+ITEM.bDropOnDeath = true

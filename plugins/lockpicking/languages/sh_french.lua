@@ -1,0 +1,19 @@
+LANGUAGE = {
+	lpExcellent = "Excellent",
+	lpWell = "Bon",
+	lpWeak = "Fragile",
+	lpBad = "Mauvais",
+	lpVBad = "Très mauvais",
+	lpCondition = "Condition de l'épingle: %s",
+	lpNotLocked = "La porte n'est pas fermée.",
+	lpAlrLpcked = "Quelqu'un d'autre crochète cette porte.",
+	lpTooFar = "Vous êtes trop loin de la porte.",
+	lpAfk = "Crochetage stoppé car vous êtes inactif.",
+	lpStarting = "Debut du crochetage...",
+	lpChange = "Changement d'epingle...",
+	lpPins = "Epingles à Cheveux",
+	lpLockLevel = "Verrou",
+	lpSkill = "Crochetage",
+	lpExit = "Quitter",
+	lpPick = "Crocheter"
+}

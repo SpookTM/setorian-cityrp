@@ -1,0 +1,66 @@
+local PLUGIN = PLUGIN
+
+local pacdata = {
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Skin"] = 0,
+				["UniqueID"] = "af58ad84a0e240e6ae4ebbbf8b0f0780c682cbbf06080e20e8aa23ae6954163b",
+				["NoLighting"] = false,
+				["AimPartName"] = "",
+				["IgnoreZ"] = false,
+				["AimPartUID"] = "",
+				["Materials"] = "",
+				["Name"] = "",
+				["LevelOfDetail"] = 0,
+				["NoTextureFiltering"] = false,
+				["PositionOffset"] = Vector(0, 0, 0),
+				["IsDisturbing"] = false,
+				["EyeAngles"] = false,
+				["DrawOrder"] = 0,
+				["TargetEntityUID"] = "",
+				["Alpha"] = 1,
+				["Material"] = "",
+				["Invert"] = false,
+				["ForceObjUrl"] = false,
+				["Bone"] = "right finger 31",
+				["Angles"] = Angle(-86.512908935547, -27.745609283447, 45.817699432373),
+				["AngleOffset"] = Angle(0, 0, 0),
+				["BoneMerge"] = false,
+				["Color"] = Vector(1, 1, 1),
+				["Position"] = Vector(0.1689453125, 0.051513671875, 0.09814453125),
+				["ClassName"] = "model2",
+				["Brightness"] = 1,
+				["Hide"] = false,
+				["NoCulling"] = false,
+				["Scale"] = Vector(1, 1, 1),
+				["LegacyTransform"] = false,
+				["EditorExpand"] = true,
+				["Size"] = 0.8,
+				["ModelModifiers"] = "",
+				["Translucent"] = false,
+				["BlendMode"] = "",
+				["EyeTargetUID"] = "",
+				["Model"] = "models/dannio/fbikid/rings.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "4650653f8363d4fcb2b2bfdb9b697f72d75429113a52c3a37595e4704650bac0",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
+}
+
+PLUGIN:AddClothingPac("ring_r", pacdata)
