@@ -4,7 +4,6 @@ I will be leaving for the military, so I won't be able to help with any problems
 
 
 
-Content Pack: https://steamcommunity.com/sharedfiles/filedetails/?id=2955100960 
 
 
 My fair well gift to the gmod community Addons to purchase: 
@@ -29,7 +28,7 @@ For property System to work you must add this plugin as well instructions on how
 
 WARNING YOU MUST USE THE MODELS THAT ARE IN THE CITIZEN FACTION FILE THOSE ARE THE BASE MODELS TO WORK WITH HEADS AND CLOTHING SYSTEM IF YOU DON'T USE IT THEN SOME THINGS WILL NOT WORK SO DON'T DM ME ASKING WHY THIS DOESN'T WORK IF YOU ARE NOT USING THE MODELS STATED.
 
-Content: https://steamcommunity.com/sharedfiles/filedetails/?id=2955100960
+Content Pack: https://steamcommunity.com/sharedfiles/filedetails/?id=2955100960
 
 I'm not a developer so I can't help with any errors if you need help setting something up I'll try my best to help you.
 
